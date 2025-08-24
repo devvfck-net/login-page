@@ -4,7 +4,7 @@ Prosty panel logowania stworzony w HTML i CSS. Idealny do nauki i szybkiego wdro
 
 EN: Simple login panel built with HTML and CSS. Great for learning and quick integration into web projects.
 
-🔗 Demo page - [devvfck.net](https://cdn.devvfck.net/clients/loginpanel/)
+🔗 Demo page - [devvfck.net](https://cdn.devvfck.net/clients/loginpage/)
 
 ---
 
